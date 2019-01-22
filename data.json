@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Pasta"
+    },
+     {
+      "id": 2,
+      "name": "Salad"
+    },
+     {
+      "id": 3,
+      "name": "Pizza"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
